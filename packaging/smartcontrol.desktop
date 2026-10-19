@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Smart Control
+GenericName=Headphone settings
+Comment=Control Sennheiser headphones (MOMENTUM True Wireless 4)
+Exec=smartcontrol-gui --show
+Icon=smartcontrol
+Terminal=false
+Categories=AudioVideo;Audio;Settings;
+Keywords=sennheiser;momentum;headphones;anc;bluetooth;

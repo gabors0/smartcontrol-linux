@@ -1,0 +1,5 @@
+__pycache__/
+*.egg-info/
+# reverse-engineering work area: APKs, decompiler output, large intermediate files
+re/
+*.xapk
